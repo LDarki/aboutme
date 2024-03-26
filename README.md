@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ldarki&label=Profile%20views&color=0e75b6&style=flat" alt="ldarki" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ldarki" alt="ldarki" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://ldarki.dev.ar" target="blank"><img align="center" src="https://komarev.com/ghpvc/?username=ldarki&label=Profile%20views&color=0e75b6&style=flat" alt="ldarki" height="30" width="40" /></a>
+<a href="https://ldarki.dev.ar" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/51938450?v=4" alt="ldarki" height="30" width="40" /></a>
 <a href="https://codepen.io/ldarki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ldarki" height="30" width="40" /></a>
 </p>
 
