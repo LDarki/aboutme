@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm LDarki</h1>
 <h3 align="center">A Full-Stack developer with over 5 years of experience, specializing in frontend development.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ldarki&label=Profile%20views&color=0e75b6&style=flat" alt="ldarki" /> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://ldarki.dev.ar" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/51938450?v=4" alt="ldarki" height="30" width="40" /></a>
